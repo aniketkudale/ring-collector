@@ -5,7 +5,7 @@ function preload() {
     game.load.image('sky', 'assets/sky.png');
     game.load.image('ground', 'assets/platform.png');
     game.load.image('ring', 'assets/ring.png');
-	game.load.image('player', 'assets/player.png');
+    game.load.image('player', 'assets/player.png');
 }
 
 // Variables
